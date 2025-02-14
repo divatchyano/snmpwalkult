@@ -1,5 +1,5 @@
 # snmpwalkult
-Scan a list of well-known MIBs
+Scan a list of well-known MIBs, based on snmpwalk
 
 # List MIB
 Suggestion of some well-known MIBs, to be improved
